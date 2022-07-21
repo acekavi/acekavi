@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [acekavi.me/resume](acekavi.me/resume)
 
-- ⚡ Fun fact **All I beleive is in me**
+- ⚡ Favourite Quotes **"never forget why you started"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
