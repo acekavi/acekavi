@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" /> </p>
 
-- 🔭 I’m currently Studying on [BSc Computer Science @ Universtity of Westminster](https://www.westminster.ac.uk/computer-science-and-engineering-courses/2022-23/september/full-time/computer-science-bsc-honours)
+- 🔭 I’m currently studying [Computer Science @ Universtity of Westminster](https://www.westminster.ac.uk/computer-science-and-engineering-courses/2022-23/september/full-time/computer-science-bsc-honours)
 
 - 🌱 I’m currently learning **Django, Kali Linux, Python and Algorithms**
 
