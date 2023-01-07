@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **acekavi.me or /acekavi on any social network**
 
-- 📄 Know about my experiences [acekavi.me/resume](acekavi.me/resume)
+- 📄 Know about my experiences [acekavi.me/resume](https://ace-in-bucket2.s3.amazonaws.com/static/files/avishka_kavinda.pdf)
 
 - ⚡ Favourite Quotes **"never forget why you started"**
 
