@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [acekavi.me/projects](https://www.acekavi.me/projects)
 
-- 📝 I regularly write articles on [blog.acekavi.me](blog.acekavi.me)
+- 📝 I regularly write articles on [blog.acekavi.me](https://www.acekavi.me/blog)
 
 - 💬 Ask me about **Python, Django and Javascript**
 
