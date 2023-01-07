@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust and REST Architecture**
 
-- 👨‍💻 All of my projects are available at [acekavi.me/projects](www.acekavi.me/projects)
+- 👨‍💻 All of my projects are available at [acekavi.me/projects](https://www.acekavi.me/projects)
 
 - 📝 I regularly write articles on [blog.acekavi.me](blog.acekavi.me)
 
