@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Avishka Kavinda Gamage</h1>
+<h1 align="center">Hi 👋, I'm Avishka K. Gamage</h1>
 <h3 align="center">A passionate UI/UX designer and a Backend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" /> </p>
 
 - 🔭 I’m currently studying [Computer Science @ Universtity of Westminster](https://www.westminster.ac.uk/computer-science-and-engineering-courses/2022-23/september/full-time/computer-science-bsc-honours)
 
-- 🌱 I’m currently learning **Django, Kali Linux, Python and Algorithms**
-
-- 🤝 I’m looking for help with **Data science**
+- 🌱 I’m currently learning **Rust and REST Architecture**
 
 - 👨‍💻 All of my projects are available at [acekavi.me/projects](acekavi.me/projects)
 
 - 📝 I regularly write articles on [blog.acekavi.me](blog.acekavi.me)
 
-- 💬 Ask me about **Python and Javascript**
+- 💬 Ask me about **Python, Django and Javascript**
 
 - 📫 How to reach me **acekavi.me or /acekavi on any social network**
 
