@@ -117,16 +117,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/acekavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p>
-<br><br>
 
-<hr></hr>
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acekavi&show_icons=true&locale=en&layout=compact" alt="acekavi" /></p>
-
-<br><br>
 ---
 
 ### About Me
 I am a passionate full-stack developer with expertise in the MEAN stack. I am currently exploring various technologies including Unity with C# and Visual Scripting, AR, VR, and XR development. I have a strong interest in learning algorithms and data structures and am familiar with natural language processing algorithms like Logistic Regression, Naive Bayes, Random Forest, SVMs, SpaCy NER models, and object detection algorithms like YOLO v4.
 
 I also work with SvelteKit and Axum (a Rust framework for web APIs), and TailwindCSS is my CSS framework of choice.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acekavi&show_icons=true&locale=en&layout=compact" alt="acekavi" /></p>
+
