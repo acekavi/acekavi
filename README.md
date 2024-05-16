@@ -123,8 +123,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acekavi&show_icons=true&locale=en&layout=compact" alt="acekavi" /></p>
 
-<p>&nbsp;</p>
-
+<hr></hr>
+<br><br>
 ---
 
 ### About Me
