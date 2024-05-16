@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avishka D. Gamage</h1>
-<h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
+<h1 align="center">I'm Avishka D. Gamage</h1>
+<h3 align="center">Fullstack dev | Game dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" /> </p>
 
@@ -112,9 +112,6 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
 
