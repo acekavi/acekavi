@@ -140,4 +140,4 @@ impl Avishka {
 - **LinkedIn:** [linkedin.com/in/acekavi](https://www.linkedin.com/in/acekavi)
 - **GitHub:** [github.com/acekavi](https://github.com/acekavi)
 
-> Obsession beats talent every time.
+> obsession beats talent
