@@ -1,125 +1,86 @@
-<h1 align="center">I'm Avishka D. Gamage</h1>
-<h3 align="center">Fullstack dev | Game dev</h3>
+<h1 align="center">Avishka Kavinda Gamage</h1>
+<h3 align="center">Full-stack developer · Rust · AI · startup-minded builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" /> </p>
-
-- Sometimes I write articles on [blog.acekavi.me](https://www.acekavi.me/blog)
-
-- Reach me at **[acekavi.me](https://www.acekavi.me) or /acekavi on any social network**
-
-- Favorite Quote: **"Obsession beats talent everytime"**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/acekavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acekavi" height="30" width="40" /></a>
-<a href="https://instagram.com/acekavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acekavi" height="30" width="40" /></a>
-<a href="https://www.behance.net/acekavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="acekavi" height="30" width="40" /></a>
-<a href="https://discord.gg/acekavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="acekavi 死神#5952" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" />
 </p>
 
-<h3 align="left">Technologies and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <a href="https://www.acekavi.me"><img src="https://img.shields.io/badge/Portfolio-acekavi.me-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/acekavi"><img src="https://img.shields.io/badge/LinkedIn-Avishka_Gamage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.avaia.design"><img src="https://img.shields.io/badge/Agency-avaia.design-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avaia" /></a>
 </p>
 
----
+## About me
 
-### About Me
-I am a passionate full-stack developer with expertise in the MEAN stack. I am currently exploring various technologies including Unity with C# and Visual Scripting, AR, VR, and XR development. I have a strong interest in learning algorithms and data structures and am familiar with natural language processing algorithms like Logistic Regression, Naive Bayes, Random Forest, SVMs, SpaCy NER models, and object detection algorithms like YOLO v4.
+I build full-stack products with a strong bias toward **shipping real things**.
 
-I also work with SvelteKit and Axum (a Rust framework for web APIs), and TailwindCSS is my CSS framework of choice.
+My work sits at the intersection of **web engineering, Rust, AI, automation, and startup execution** — from polished frontend experiences to backend services, internal tools, bots, and product infrastructure.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/acekavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p>
+I’ve always been coding. If I’m not pushing public commits, I’m usually deep in client work, product work, or my day job — not away from the craft.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acekavi&show_icons=true&locale=en&layout=compact" alt="acekavi" /></p>
+```rust
+struct Avishka {
+    focus: [&'static str; 4],
+    builds: [&'static str; 4],
+    mindset: &'static str,
+}
 
+impl Avishka {
+    fn current() -> Self {
+        Self {
+            focus: ["full-stack apps", "Rust systems", "AI tooling", "startup execution"],
+            builds: ["products", "bots", "internal tools", "websites that convert"],
+            mindset: "design well, build fast, keep it useful",
+        }
+    }
+}
+```
+
+## What I've built
+
+### Shipped on the web
+- **[avaia.design](https://www.avaia.design)** — my agency site focused on personal brands, hospitality, and e-commerce websites.
+- **[teyabeach.com](https://www.teyabeach.com)** — boutique hotel website for Teya Beach Hotel in Ahangama, built around bookings, conversion, and a clear hospitality story.
+- **[acekavi.me](https://www.acekavi.me)** — my personal portfolio and writing hub.
+
+### Public repositories
+- **[Crypto](https://github.com/acekavi/Crypto)** — trading systems, backtesting, execution research, and bot infrastructure.
+- **[booking-extranet-bot](https://github.com/acekavi/booking-extranet-bot)** — Booking.com extranet automation with 2FA support.
+- **[grubsi](https://github.com/acekavi/grubsi)** — restaurant/bar POS system built with Rust.
+- **[keytide](https://github.com/acekavi/keytide)** — IAM microservice for authentication and authorization.
+- **[tradingview-mcp](https://github.com/acekavi/tradingview-mcp)** — AI-assisted TradingView workflow automation.
+- **[clarks.lk](https://github.com/acekavi/clarks.lk)** — e-commerce site for a shoe shop.
+- **[crypto-analyzer](https://github.com/acekavi/crypto-analyzer)** — sentiment-based crypto market analysis.
+
+## What I'm building now
+
+Right now I’m especially interested in:
+- **Rust for serious application logic**
+- **AI-powered tools and automations that do real work**
+- **startup-friendly products** with fast feedback loops
+- **hospitality and operations software** tied to real business outcomes
+- **trading and research tooling** where correctness matters more than hype
+
+A few public references for that direction:
+- [Crypto](https://github.com/acekavi/Crypto)
+- [tradingview-mcp](https://github.com/acekavi/tradingview-mcp)
+- [booking-extranet-bot](https://github.com/acekavi/booking-extranet-bot)
+- [keytide](https://github.com/acekavi/keytide)
+
+## Things I care about
+
+- clean product thinking
+- strong UX with real business purpose
+- tools that save people time
+- systems that are simple, fast, and maintainable
+- building instead of posturing
+
+## Find me
+
+- **Portfolio:** [acekavi.me](https://www.acekavi.me)
+- **Blog:** [blog.acekavi.me](https://www.acekavi.me/blog)
+- **LinkedIn:** [linkedin.com/in/acekavi](https://www.linkedin.com/in/acekavi)
+- **GitHub:** [github.com/acekavi](https://github.com/acekavi)
+
+> Obsession beats talent every time.
