@@ -43,6 +43,57 @@ impl Avishka {
 }
 ```
 
+## Previously at
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.infor.com/">
+        <img src="https://www.infor.com/favicon.png" alt="Infor" width="44" height="44" /><br />
+        <sub><b>Infor</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://kernernorland.com/">
+        <img src="https://kernernorland.com/wp-content/uploads/2023/06/kerner_norland_logo_favicon-150x150.webp" alt="Kerner Norland" width="44" height="44" /><br />
+        <sub><b>Kerner Norland</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://accario.com/">
+        <img src="https://accario.com/wp-content/uploads/2021/10/cropped-favicon-32x32.png" alt="Accario" width="44" height="44" /><br />
+        <sub><b>Accario</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.clinic.mybluewave.com">
+        <img src="https://static.wixstatic.com/media/dd16b8_d851febd86a947639c9278eecc6ab904~mv2.png/v1/fill/w_192,h_192,lg_1,usm_0.66_1.00_0.01/dd16b8_d851febd86a947639c9278eecc6ab904~mv2.png" alt="Bluewave" width="44" height="44" /><br />
+        <sub><b>Bluewave</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
+      <a href="https://www.wd-strategies.com/">
+        <img src="https://cdn.prod.website-files.com/67b5170b8da439c00b851309/69583e9a1bb9c20d902436a9_wd_logo_32x32.png" alt="WD Strategies" width="44" height="44" /><br />
+        <sub><b>WD Strategies</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://www.adlever.io/">
+        <img src="https://cdn.prod.website-files.com/6a7379b81b70705f378113fc/6a7f1a10cc006bc298fb936f_logo%20.png" alt="AdLever" width="44" height="44" /><br />
+        <sub><b>AdLever</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://openedx.org/">
+        <img src="https://openedx.org/wp-content/uploads/2026/03/cropped-open-edx-favicon-32x32.png" alt="Open edX" width="44" height="44" /><br />
+        <sub><b>Open edX</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Shipped work
 
 ### On the web
@@ -71,13 +122,6 @@ impl Avishka {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,ts,js,python,svelte,react,nodejs,postgres,docker,linux,aws,figma&theme=dark&perline=6" alt="Skills" />
   </a>
-</p>
-
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=acekavi&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acekavi&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ## How I think
