@@ -100,9 +100,9 @@ I also take on freelance projects to keep the building itch scratched. I did the
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://vinovolab.ai/">
-        <img src="https://www.google.com/s2/favicons?domain=vinovolab.ai&sz=64" alt="Vinovolab.ai" width="44" height="44" /><br />
-        <sub><b>Vinovolab.ai</b></sub>
+      <a href="https://vinovalab.ai/">
+        <img src="https://vinovalab.ai/favicon.svg" alt="Vinovalab.ai" width="44" height="44" /><br />
+        <sub><b>Vinovalab.ai</b></sub>
       </a>
     </td>
   </tr>
