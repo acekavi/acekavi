@@ -1,12 +1,8 @@
-<h1 align="center">Avishka Kavinda Gamage</h1>
-<h3 align="center">Senior technical founder mindset · full-stack · Rust · AI · product execution</h3>
+<h1 align="center">Hey, I'm Avishka 👋</h1>
+<h3 align="center">I build things. Sometimes they even work on the first try. (They don't.)</h3>
 
 <p align="center">
-  I build products, systems, and websites that are meant to ship, convert, and keep working.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acekavi&label=Profile%20views&color=0e75b6&style=flat" alt="acekavi" />
+  <img src="https://komarev.com/ghpvc/?username=acekavi&label=People%20who%20got%20lost%20here&color=0e75b6&style=flat" alt="acekavi" />
 </p>
 
 <p align="center">
@@ -17,33 +13,45 @@
 
 ---
 
-## About
+## The short version
 
-I work like a technical founder even when the title says something else.
+I've been writing code since **2015** and using GitHub since **2018**, back when most people my age didn't even know it existed. I've contributed to so many systems over the years that I genuinely can't remember half of them. If you worked with me on something and I don't remember it, it's not you, it's me. (It's probably also the codebase.)
 
-My background spans full-stack engineering, design, Rust, AI tooling, automation, and product execution. I care about systems that are clear, fast, useful, and commercially grounded.
+## The long version (a.k.a. how I got here)
 
-If I’m quiet on public GitHub for a while, I’m usually deep in client work, product work, or my job, not away from building.
+- **The early days:** HTML, CSS, jQuery and vanilla JS. Every website I made had a marquee tag somewhere. I'm not proud of it.
+- **The Bootstrap era:** Laravel + PHP + Bootstrap. Every site I built looked like every other site on the internet, and that was the whole point.
+- **The bachelor's degree:** I used so many tools, languages and frameworks I couldn't name them all if you paid me. Some of them probably don't exist anymore.
+- **The game dev arc:** Unity and C#. I made games, wrote stories inside games, and built algorithm visualizers so you could watch BFS, Dijkstra and A* find their way around a map (and occasionally walk into a wall).
+- **The XR phase:** Built XR stuff with Unity and ARCore. Waving my phone around at empty rooms like a lunatic, for science.
+- **The framework buffet:** React, Svelte, Next.js, visual scripting. I tried everything on the menu.
+- **The industry years:** Full-stack on MEAN (Angular + Express) and MERN. Python with Django, Flask and FastAPI at various points of my life, depending on which version of me you ask.
+- **The fun bits:** Rust, Axum, Three.js, GSAP. I also ran game servers with a ridiculous amount of load on tiny AWS free-tier boxes. Jeff Bezos owes me one.
 
-```rust
-struct Avishka {
-    role: &'static str,
-    focus: [&'static str; 4],
-    builds: [&'static str; 4],
-}
+**Where I landed:** **Axum + SvelteKit.** That combo is the bomb, and I'll fight you on it.
 
-impl Avishka {
-    fn current() -> Self {
-        Self {
-            role: "engineer with founder instincts",
-            focus: ["products", "Rust systems", "AI tools", "execution"],
-            builds: ["web platforms", "automation", "internal tools", "sites that convert"],
-        }
-    }
-}
-```
+## The honest bit
 
-## Previously at
+I used to love coding. That moment when something finally works after hours of staring at it? Unbeatable.
+
+These days AI writes most of the code, and "coding" is basically me having a long conversation with Claude. Kinda boring, not gonna lie. But it taught me something: **coding was never the passion. Building things was.**
+
+So now I spend my brain cells on what AI can't just autocomplete for me:
+
+- RAG and other AI-native ways of building things
+- System design: how the big boys actually architect stuff
+- Concurrency, caching, load balancing, and the algorithms behind them
+- How systems survive millions of users without catching fire
+
+## What I'm up to right now
+
+Running my own business and building systems that automate and manage it, using my own products. Eating my own dog food, and it tastes alright.
+
+I also take on freelance projects to keep the building itch scratched. I did the 9-5 thing. It felt like slavery with a dental plan.
+
+**Time > Money.** Every time.
+
+## Places that paid me to do this
 
 <table>
   <tr>
@@ -73,71 +81,63 @@ impl Avishka {
     </td>
   </tr>
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://www.wd-strategies.com/">
         <img src="https://cdn.prod.website-files.com/67b5170b8da439c00b851309/69583e9a1bb9c20d902436a9_wd_logo_32x32.png" alt="WD Strategies" width="44" height="44" /><br />
         <sub><b>WD Strategies</b></sub>
       </a>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://www.adlever.io/">
         <img src="https://cdn.prod.website-files.com/6a7379b81b70705f378113fc/6a7f1a10cc006bc298fb936f_logo%20.png" alt="AdLever" width="44" height="44" /><br />
         <sub><b>AdLever</b></sub>
       </a>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://openedx.org/">
         <img src="https://openedx.org/wp-content/uploads/2026/03/cropped-open-edx-favicon-32x32.png" alt="Open edX" width="44" height="44" /><br />
         <sub><b>Open edX</b></sub>
       </a>
     </td>
+    <td align="center" width="25%">
+      <a href="https://vinovolab.ai/">
+        <img src="https://www.google.com/s2/favicons?domain=vinovolab.ai&sz=64" alt="Vinovolab.ai" width="44" height="44" /><br />
+        <sub><b>Vinovolab.ai</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
-## Shipped work
+## Stuff I've shipped (that I actually remember)
 
 ### On the web
-- **[avaia.design](https://www.avaia.design)** — the agency I built for personal brands, hospitality, and e-commerce.
-- **[teyabeach.com](https://www.teyabeach.com)** — website for Teya Beach Hotel, built around booking flow, conversion, and a stronger hospitality presence.
-- **[acekavi.me](https://www.acekavi.me)** — my portfolio, writing hub, and public home on the internet.
+- **[avaia.design](https://www.avaia.design)**: my agency. We make websites for personal brands, hotels and e-commerce folks.
+- **[teyabeach.com](https://www.teyabeach.com)**: Teya Beach Hotel's website. Its job is to make you want a vacation and then book one.
+- **[acekavi.me](https://www.acekavi.me)**: my little corner of the internet. Portfolio, blog, occasional rants.
 
 ### Public repos
-- **[Crypto](https://github.com/acekavi/Crypto)** — trading systems, backtesting, execution logic, and research tooling.
-- **[booking-extranet-bot](https://github.com/acekavi/booking-extranet-bot)** — Booking.com extranet automation with 2FA support.
-- **[grubsi](https://github.com/acekavi/grubsi)** — restaurant and bar POS system built with Rust.
-- **[keytide](https://github.com/acekavi/keytide)** — IAM microservice for authentication and authorization.
-- **[tradingview-mcp](https://github.com/acekavi/tradingview-mcp)** — AI-assisted TradingView workflow automation.
+- **[Crypto](https://github.com/acekavi/Crypto)**: trading bots, backtesting and research tooling. No, I'm not rich yet.
+- **[booking-extranet-bot](https://github.com/acekavi/booking-extranet-bot)**: automates the Booking.com extranet, 2FA and all, so I never have to click through it again.
+- **[grubsi](https://github.com/acekavi/grubsi)**: a restaurant and bar POS written in Rust, because why not.
+- **[keytide](https://github.com/acekavi/keytide)**: an IAM microservice for auth. It decides who gets in.
+- **[tradingview-mcp](https://github.com/acekavi/tradingview-mcp)**: lets AI poke at TradingView so I don't have to.
 
-## Current focus
-
-- software tied to business outcomes
-- AI that saves real time
-- Rust for reliability-critical logic
-- product execution with fast iteration
-- web experiences that move people to act
-
-## Stack
+## Tools of the trade (current favourites)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,js,python,svelte,react,nodejs,postgres,docker,linux,aws,figma&theme=dark&perline=6" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,svelte,ts,js,python,react,nodejs,postgres,docker,linux,aws,figma&theme=dark&perline=6" alt="Skills" />
   </a>
 </p>
 
-## How I think
-
-- build for leverage
-- design for clarity
-- automate repetitive work
-- care about conversion, not decoration
-- prefer useful systems over impressive-sounding ones
-- use high standards when designing systems, not just when polishing UI
+<sub>Not pictured: the dozens of things I used once in 2019 and immediately forgot.</sub>
 
 ## Find me
 
 - **Portfolio:** [acekavi.me](https://www.acekavi.me)
-- **Blog:** [blog.acekavi.me](https://www.acekavi.me/blog)
+- **Blog:** [acekavi.me/blog](https://www.acekavi.me/blog)
 - **LinkedIn:** [linkedin.com/in/acekavi](https://www.linkedin.com/in/acekavi)
-- **GitHub:** [github.com/acekavi](https://github.com/acekavi)
+
+If I've gone quiet on GitHub, I'm not dead. I'm probably busy with client work or my business, or arguing with an AI about why my code broke.
 
 > obsession beats talent
